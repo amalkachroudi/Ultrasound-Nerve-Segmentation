@@ -3,10 +3,7 @@
 
 Accurately identifying nerve structures in ultrasound images is a critical step in effectively inserting a patient’s pain management catheter. In this task, I am challenged to build a model that can identify nerve structures in a dataset of ultrasound images of the neck. Doing so would improve catheter placement and contribute to a more pain free future. Image segmentation aims to separate an image into anatomically meaningful regions. The objective evaluation of image segmentation methods is crucially important in order to get automated image segmentation methods accepted in clinical practice.
 
-<p align="center">
-  <img src="C:\Users\aMaL\Desktop\Capture.jpg" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>
+![myimage-alt-tag](https://raghakot.github.io/images/ultrasound/example.jpg)
 
 # Building the Model
 
