@@ -10,3 +10,6 @@ Accurately identifying nerve structures in ultrasound images is a critical step 
 I used deep learning and more specifically an architecture based on CNN because they are suitable for processing images.
 The network that I have used is the UNet which is composed of an encoder part in which the image is downsampled and a decoder part in which the image is upsampled in order to get eventually the predicted image that has the same size as the real mask.
 
+![myimage-alt-tag](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-architecture.png)
+
+
